@@ -19,7 +19,7 @@
 * Установить email, от которого будут совершаться изменения
 
   ```shell
-  git config --global user.name ivan-ivanov@gmail.com
+  git config --global user.email ivan-ivanov@gmail.com
   ```
 
 * Установить имя интеграционной ветки по умолчанию
