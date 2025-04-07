@@ -15,3 +15,6 @@ minima:
       - title: Open Source Contributor Guide at GitHub
         icon: github
         url: "https://github.com/alei1180/open-source-contributor-guide"
+      - title: Telegram channel of the author
+        icon: telegram
+        url: "https://t.me/alei1180_dev"
