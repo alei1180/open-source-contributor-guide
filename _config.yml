@@ -1,7 +1,18 @@
 title: "Open Source Contributor Guide"
-remote_theme: "jekyll/minima@1e8a445"
-minima:
-  skin: classic
 author:
   name: Alexander Osadchy
   email: "alei1180@gmail.com"
+
+description: >
+  Open Source Contributor Guide.
+  Руководство для контрибьюторов в проекты с открытым исходным кодом.
+
+remote_theme: "jekyll/minima@1e8a445"
+
+minima:
+  skin: classic
+
+social_links:
+    - title: Open Source Contributor Guide at GitHub
+      icon: github
+      url: "https://github.com/alei1180/open-source-contributor-guide"
