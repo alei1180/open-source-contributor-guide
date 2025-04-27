@@ -18,4 +18,4 @@ minima:
       - title: Telegram channel of the author
         icon: telegram
         url: "https://t.me/alei1180_dev"
-  hide_site_feed_link: true
+hide_site_feed_link: true
