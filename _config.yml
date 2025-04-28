@@ -11,8 +11,6 @@ remote_theme: "jekyll/minima@8106bd4"
 
 minima:
   skin: classic
-  nav_pages:
-    - README.md
   social_links:
       - title: Open Source Contributor Guide at GitHub
         icon: github
