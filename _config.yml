@@ -7,7 +7,7 @@ description: >
   Open Source Contributor Guide.
   Руководство для контрибьюторов в проекты с открытым исходным кодом.
 
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/minima@8106bd4"
 
 minima:
   skin: classic
