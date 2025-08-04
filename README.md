@@ -259,3 +259,6 @@
 * [Pro Git](https://git-scm.com/book/ru/v2)
 * [Head First Git](https://i-love-git.com/)
 * [Conventional Commits](https://www.conventionalcommits.org/ru/v1.0.0/)
+* [Keep a Changelog](https://keepachangelog.com/ru/1.1.0/)
+* [Oh Shit, Git!?!](https://ohshitgit.com/ru)
+* [email + git = <3](https://git-send-email.io/)
