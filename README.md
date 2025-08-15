@@ -262,3 +262,4 @@
 * [Keep a Changelog](https://keepachangelog.com/ru/1.1.0/)
 * [Oh Shit, Git!?!](https://ohshitgit.com/ru)
 * [email + git = <3](https://git-send-email.io/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
